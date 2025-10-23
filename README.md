@@ -41,7 +41,7 @@ This project demonstrates how AI tools can accelerate front-end development and 
 
 ## 🎨 Preview
 You can view the live demo on GitHub Pages (if you enable it):  
-👉 **[Live Demo](https://EdmondGoddy.github.io/AI_Dev_LoginForm_3/)**
+👉 **[Live Demo](https://raw.githack.com/EdmondGoddy/AI_Dev_LoginForm_3/main/index.html)**
 
 ---
 
